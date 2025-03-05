@@ -6,7 +6,7 @@
     <div class="row">
         <header class="col d-flex flex-column align-items-center justify-content-center">
             <br>
-            <img src="@/images/calculate.png" alt="ícone de calculadora">
+            <img src="@/images/Calculate.png" alt="ícone de calculadora">
             <br>
             <h1 class="text-center">VAMOS CALCULAR?</h1>
             <br>
